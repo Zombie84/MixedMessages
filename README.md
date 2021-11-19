@@ -18,5 +18,11 @@ The names end verbs are stored in an array and put together randomly.
 
 Set up Git tracking in your directory and add and commit changes as you make them.
 
-- Store message components
+...
+
+- Next Steps
+
+You’re welcome to expand your program beyond these project tasks and get creative!
+
+**Next step**: Simple html page-that shows message on every load.
 
