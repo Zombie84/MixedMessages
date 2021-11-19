@@ -24,5 +24,5 @@ Set up Git tracking in your directory and add and commit changes as you make the
 
 You’re welcome to expand your program beyond these project tasks and get creative!
 
-**Next step**: Simple html page-that shows message on every load.
+**Next steps**: Simple html page-that shows message on every load.
 
