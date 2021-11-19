@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MESSAGE GENERATOR
 =================
 
@@ -17,3 +18,7 @@ The names end verbs are stored in an array and put together randomly.
 - Set up version control
 
 Set up Git tracking in your directory and add and commit changes as you make them.
+=======
+# MixedMessages
+von Codecademy
+>>>>>>> f00acae2e541347b98cf426d0746555502c649a4
