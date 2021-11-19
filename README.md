@@ -17,3 +17,6 @@ The names end verbs are stored in an array and put together randomly.
 - Set up version control
 
 Set up Git tracking in your directory and add and commit changes as you make them.
+
+- Store message components
+
