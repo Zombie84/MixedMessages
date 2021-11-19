@@ -1,4 +1,3 @@
-HEAD
 MESSAGE GENERATOR
 =================
 
